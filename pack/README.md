@@ -1,6 +1,6 @@
 # disable-unused-interfaces
 
-This configlet is a [dynamic [jinja-based template](https://supportportal.juniper.net/s/article/Juniper-Apstra-Jinja-Configlets-using-dynamic-data-from-deviceModel?language=en_US) that disables unused interfaces by searching for any interfaces that do not have a description and disabling them.
+This configlet is a dynamic [jinja-based template](https://supportportal.juniper.net/s/article/Juniper-Apstra-Jinja-Configlets-using-dynamic-data-from-deviceModel?language=en_US) that disables unused interfaces by searching for any interfaces that do not have a description and disabling them.
 
 note: deviceModel is a hidden and undocumented feature.
 
