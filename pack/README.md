@@ -16,3 +16,7 @@ interfaces {
 }
   {% endif %}
 {% endfor %}
+  
+---
+  
+This pack is released with limited testing.
